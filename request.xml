@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="GBK"?>
+<Service>
+	<Header>
+  		<Response>
+    		<ServiceCode>ACMT000080</ServiceCode>
+    		<ReturnCode>0000</ReturnCode>
+    		<ReturnMessage/>
+    	</Response>
+  	</Header>
+  	<Body>
+		<Response>
+			<OpenBranchCode>0755</OpenBranchCode>
+			<CustNo>0755-83415666</CustNo>
+			<AcctName>深圳兆日科技股份有限公司</AcctName>
+		</Response>
+	</Body>
+</Service>
